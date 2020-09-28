@@ -2,7 +2,7 @@
 // Import the 'Potion' constructor and its 'mocked' data
 const Potion = require('../lib/Potion');
 jest.mock('../lib/Potion');
-console.log( new Potion() );
+//console.log( new Potion() );
 
 ////////////////////////////////////////////////////////////////
 const Player = require( '../lib/Player' );
