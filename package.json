@@ -18,5 +18,8 @@
   "homepage": "https://github.com/CaptainRich/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
