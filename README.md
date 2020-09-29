@@ -1,1 +1,1 @@
-# jest-another-rpg
+# Jest Another RPG
