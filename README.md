@@ -18,19 +18,20 @@ Richard Ay (September 2020, *updated February 2022*)
     
 ## Usage Instructions
     
-    From the GitHub repository, navigate to the /dist subdirectory and issue the command: 'node index'.
+    From the GitHub repository, navigate to the /dist subdirectory and issue the command: 'node app'.  Game options can be selected by using the keyboard arrow keys followed by [Enter].
   
 ## Application Walk Through
 
-This application allows the user to create a portfolio of projects.  The Javascript prompts the user for information which is subsequently written to index.html using 'template literals'.  The Javascript takes advantage of the 'rest operator', 'map', and 'filter' to properly populate the HTML template.  The NPM file system package is used to write the index.html file and copy it to the distribution (\dist) directory.  
+Once the game starts, the player is prompted for a name.  There are two options for the player: attack or use a potion.  If 'potion' is selected, there is a choice of three: health, strength, or agility.
 
 
 
 ## Technologies Used
 
 * Node.js
-* npm (fs, inquirer, jest)
-* Javascript( ..., map, filter, promise)
+* objects
+* npm (inquirer, jest)
+* Javascript( ..., map, promise)
 
 
 ## Deployment Link
