@@ -18,7 +18,8 @@ Richard Ay (September 2020, *updated February 2022*)
     
 ## Usage Instructions
     
-    From the GitHub repository, navigate to the /dist subdirectory and issue the command: 'node app'.  Game options can be selected by using the keyboard arrow keys followed by [Enter].
+    From the GitHub repository, navigate to the /dist subdirectory and issue the command: 'node app'.  
+    Game options can be selected by using the keyboard arrow keys followed by [Enter].
   
 ## Application Walk Through
 
@@ -36,7 +37,7 @@ Once the game starts, the player is prompted for a name.  There are two options 
 
 ## Deployment Link
 Because this application runs from a machine (command line) and not a browser, it cannot be deployed to GitHub pages.  To run this application, clone it to your local machine and (assuming you have 'node.js' installed) run 'node app.js'.
-The link to the GitHub repository is: https://CaptainRich.github.io/portfolio-generator  
+The link to the GitHub repository is: https://CaptainRich.github.io/jest-another-rpg 
  
 
 
