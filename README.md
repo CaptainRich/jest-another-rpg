@@ -25,6 +25,8 @@ Richard Ay (September 2020, *updated February 2022*)
 
 Once the game starts, the player is prompted for a name.  There are two options for the player: attack or use a potion.  If 'potion' is selected, there is a choice of three: health, strength, or agility.
 
+A player/enemy health value is reduced following an attack.  The "damage" value is a function of the relative values of health, strength and agility.
+
 
 
 ## Technologies Used
@@ -43,4 +45,4 @@ The link to the GitHub repository is: https://CaptainRich.github.io/jest-another
 
 ## Application Screen Shots
 
-![Screenshot](screen-shot.jpg) Image of the application with 'mocked' data.  
+![Screenshot](screen-shot.jpg) Image of the application during play.  
