@@ -18,16 +18,16 @@ Richard Ay (September 2020, *updated February 2022*)
     
 ## Usage Instructions
     
-    From the GitHub repository, navigate to the /dist subdirectory and issue the command: 'node app'.  
-    Game options can be selected by using the keyboard arrow keys followed by [Enter].
+    From the GitHub repository, navigate to the root directory and issue the command: 'node app'.  
+    Game options can be selected by using the keyboard arrow keys followed by [Enter].  Note, this game runs in the console (command line).
   
 ## Application Walk Through
 
-Once the game starts, the player is prompted for a name.  There are two options for the player: attack or use a potion.  If 'potion' is selected, there is a choice of three: health, strength, or agility.
+Once the game starts, the player is prompted for a name.  There are two options for the player: attack or use a potion.  If 'potion' is selected, there is a choice of three: health, strength, or agility. The player and the enemy take turns attacking each other.
 
 A player/enemy health value is reduced following an attack.  The "damage" value is a function of the relative values of health, strength and agility.
 
-
+Test Driven Development (TDD) tests can be run by issuing the command "npm run test" or "npm run test <object>".
 
 ## Technologies Used
 
