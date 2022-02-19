@@ -27,7 +27,7 @@ Once the game starts, the player is prompted for a name.  There are two options 
 
 A player/enemy health value is reduced following an attack.  The "damage" value is a function of the relative values of health, strength and agility.
 
-Test Driven Development (TDD) tests can be run by issuing the command "npm run test" or "npm run test <object>".
+Test Driven Development (TDD) tests can be run by issuing the command "npm run test" or "npm run test 'object'".
 
 ## Technologies Used
 
